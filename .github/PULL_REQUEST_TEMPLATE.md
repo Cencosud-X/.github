@@ -4,15 +4,11 @@
 
 Please check if your PR fulfills the following requirements:
 - [ ] Tests for the changes have been added (for bug fixes / features)
-- [ ] Docs have been reviewed and added / updated if needed (for bug fixes / features)
-  - Some docs updates need to be made in the `ionic-docs` repo, in a separate PR. See the [contributing guide](https://github.com/ionic-team/ionic-framework/blob/main/.github/CONTRIBUTING.md#modifying-documentation) for details.
 - [ ] Build (`npm run build`) was run locally and any changes were pushed
 - [ ] Lint (`npm run lint`) has passed locally and any fixes were made for failures
 
 
 ## Pull request type
-
-<!-- Please do not submit updates to dependencies unless it fixes an issue. --> 
 
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. --> 
 
@@ -30,16 +26,9 @@ Please check the type of change your PR introduces:
 <!-- Please describe the current behavior that you are modifying. -->
 
 
-<!-- Issues are required for both bug fixes and features. -->
-Issue URL: 
-
-
 ## What is the new behavior?
 <!-- Please describe the behavior or changes that are being added by this PR. -->
 
--
--
--
 
 ## Does this introduce a breaking change?
 
